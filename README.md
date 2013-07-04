@@ -25,7 +25,6 @@ require 'winterfell'
 
 42.winter_is_coming? # true
 %w(i am ned start).winter_is_coming? # true
-
 ```
 
 ## Contributing
