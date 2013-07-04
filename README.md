@@ -1,6 +1,6 @@
 # Winterfell
 
-TODO: Write a gem description
+Completely useful gem. Let's you know if winter is coming to your project.
 
 ## Installation
 
@@ -18,10 +18,19 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Require the gem. Ask anyone if winter is coming.
+
+```ruby
+require 'winterfell'
+
+42.winter_is_coming? # true
+%w(i am ned start).winter_is_coming? # true
+
+```
 
 ## Contributing
 
+0. Would you really want to do it?
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
