@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Winterfell::VERSION
   spec.authors       = ["Guilherme Carvalho"]
   spec.email         = ["guilherme@guava.com.br"]
-  spec.description   = %q{Allows your ruby code to know whether the winter is coming or not?}
+  spec.description   = %q{Completely useful gem. Let's you know if winter is coming to your project.}
   spec.summary       = %q{Just that}
   spec.homepage      = "https://github.com/gvc/winterfell"
   spec.license       = "MIT"
